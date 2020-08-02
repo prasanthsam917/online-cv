@@ -50,10 +50,14 @@ experiences:
     - role: Development Engineer
       time: 2015 - Present
       company: IVTL Infoview Technologies, Chennai India.
-      details: |
-        Development and support of adding enhanced function to existing modules in ERP package. Development in spring MVC and micro services with HUE framework for SCM, HR products which was focused on high usability and high performance application. A wholly owned subsidy of WORKS APPLICATION JAPAN.
-        
-        - Application development for SCM –Procurement Module purely developed from Frontend to Backend (2015 – to present).
+      details: |                
+        - Application development for SCM –Procurement Module purely developed from Frontend to Backend (2017 – to present).
+        1. Application Framework: Spring boot, Spring MVC, Micro Service, Restful web services.
+        2. Backend: Java jdk1.8.
+        3. Frontend: Forneus framework (customized rendering engine to achieve high speed screen transition), Angular typescript (angular cli library).
+        4. Data Base: Cassandra, MySQL, Elastic Search.
+        5. CI/CD: Jenkins.
+        6. Cloud Platform: AWS.
         
 
 
