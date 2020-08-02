@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -28,12 +28,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi, my name is Prasanth Murugaiah, I'm currently living in Chennai, India. 
+      I'm 26 years, I have a degree in Electrical and Communication Engineering. 
+      Currently, I work as a Development Engineer. In my free time, I like to study about new programming languages, do some programming, play video games and watch and practice sports.
+      
 education:
     - degree: B.Tech in Electrical and Communication Engineering
       university: Periyar Maniammai University, Thanjavur
@@ -51,13 +49,16 @@ experiences:
       time: 2015 - Present
       company: IVTL Infoview Technologies, Chennai India.
       details: |                
-        - Application development for SCM –Procurement Module purely developed from Frontend to Backend (2017 – to present).
-        1. Application Framework: Spring boot, Spring MVC, Micro Service, Restful web services.
-        2. Backend: Java jdk1.8.
-        3. Frontend: Forneus framework (customized rendering engine to achieve high speed screen transition), Angular typescript (angular cli library).
-        4. Data Base: Cassandra, MySQL, Elastic Search.
-        5. CI/CD: Jenkins.
-        6. Cloud Platform: AWS.
+        - Application development for SCM–Procurement Module purely developed from Frontend to Backend (2017 – to present).
+            1. Application Framework: Spring boot, Spring MVC, Micro Service, Restful web services.
+            2. Backend: Java jdk1.8.
+            3. Frontend: Forneus framework, Angular 8.
+            4. Data Base: MySQL, Cassandra.
+            5. CI/CD: Jenkins, Docker.
+            6. Cloud Platform: AWS.
+            
+        - Application development for Human Resource(HR) Module, which is conversion project from Borland Delphi (Pascal) to strut (Object Relation Mapping) framework (J2ee) (2015 – 2017).
+            1. Backend: Java jdk1.6.            
         
 
 
@@ -65,23 +66,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java [jdk1.8]
+        level: 87%
+        
+      - name: DBMS [MySQL]
+        level: 85%                
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Spring[Spring Boot & Spring MVC]
+        level: 75%              
 
-      - name: Angular
-        level: 98%
+      - name: Front End [Angular]
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Devops [Git , Docker, Maven & Jenkins]
+        level: 60%            
